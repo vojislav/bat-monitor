@@ -12,11 +12,11 @@ Example:
 <code>
 state:               discharging
 </code>
-
+<br>
 <code>
 time to empty:       2,1 hours
 </code>
-
+<br>
 <code>
 percentage:          80%
 </code>
