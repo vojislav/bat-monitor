@@ -5,6 +5,8 @@ Just download the <em>bat</em> script, put it in the root directory and run it w
 
 It will display the <em>state(charging/discharging)</em>, <em>time til empty/full</em> and <em>battery percetage</em>.
 
+Hope you enjoy :)
+
 Example:
 
 <code>
@@ -18,5 +20,3 @@ time to empty:       2,1 hours
 <code>
 percentage:          80%
 </code>
-
-Hope you enjoy :)
